@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mlasalmo/ansible-apache.svg?branch=master)](https://travis-ci.org/mlasalmo/ansible-apache)
+
 # ansible-apache
 
 Demo implementation of a role that gets tested using Molecule and Travis CI.
